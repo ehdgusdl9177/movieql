@@ -1,6 +1,6 @@
 const resolvers = {
   Query: {
-    name: () => "kevin",
+    name: () => "kevins",
   },
 };
 
